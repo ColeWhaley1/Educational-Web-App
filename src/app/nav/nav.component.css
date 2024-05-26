@@ -1,0 +1,19 @@
+.nav{
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    box-sizing: border-box;
+    
+    background-color: blue;
+    font: 500 20px/32px Roboto, "Helvetica Neue", sans-serif;
+
+    display: flex;
+    align-items: center;
+
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 60px;
+
+    z-index: 100;
+}

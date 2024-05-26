@@ -1,0 +1,8 @@
+<a [routerLink]="'/'">Home</a>
+<a [routerLink]="'/teams'">Teams</a>
+
+<div *ngIf="isTeamSelected()">
+    <a [routerLink]="'/adventures'">Adventures</a>
+    <a [routerLink]="'/treasure'">Treasure</a>
+</div>
+
