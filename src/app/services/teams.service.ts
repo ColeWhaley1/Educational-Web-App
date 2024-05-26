@@ -7,7 +7,7 @@ export class TeamsService {
 
   constructor() { }
 
-  public currentTeamId = null;
+  public currentTeamId: number | null = null;
 
   isTeamSelected(){
     return this.currentTeamId ? true : false;
