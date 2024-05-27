@@ -1,0 +1,1 @@
+{"version":3,"file":"leadersService.js","sourceRoot":"","sources":["../../../../../src/app/backend/services/leadersService.ts"],"names":[],"mappings":";AAAA,MAAM,IAAI,GAAG,OAAO,CAAC,OAAO,CAAC,CAAC;AAE9B,MAAM,cAAc;IAEhB,MAAM,CAAC,KAAK,CAAC,aAAa;QACtB,OAAO,MAAM,IAAI,CAAC,KAAK,CAAC,sBAAsB,CAAC,CAAC,IAAI,CAAC;IACzD,CAAC;CAEJ;AAED,MAAM,CAAC,OAAO,GAAG,CAAC,cAAc,CAAC,CAAC"}
